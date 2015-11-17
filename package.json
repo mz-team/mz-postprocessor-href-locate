@@ -1,0 +1,24 @@
+{
+  "name": "mz-postprocessor-href-locate",
+  "version": "1.0.0",
+  "description": "编译a标签里的文件路径",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mz-team/mz-postprocessor-href-locate.git"
+  },
+  "keywords": [
+    "fis",
+    "编译",
+    "href"
+  ],
+  "author": "yakey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mz-team/mz-postprocessor-href-locate/issues"
+  },
+  "homepage": "https://github.com/mz-team/mz-postprocessor-href-locate#readme"
+}
